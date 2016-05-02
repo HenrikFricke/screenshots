@@ -10,6 +10,7 @@
   "author": "Henrik Fricke <henrik.fricke@jimdo.com>",
   "license": "MIT",
   "dependencies": {
+    "node-env-file": "^0.1.8",
     "webshot": "^0.18.0"
   }
 }
