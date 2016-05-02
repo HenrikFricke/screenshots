@@ -25,6 +25,12 @@ of the project.
 
 ## Environment
 
+```
+# example for .env file
+
+WINDOW_WIDTH=600
+```
+
 ### browser resolution
 
 process.env.WINDOW_WIDTH
