@@ -28,9 +28,11 @@ of the project.
 ### browser resolution
 
 process.env.WINDOW_WIDTH
+
 process.env.WINDOW_HEIGHT
 
 ### screenshot size
 
 process.env.SHOT_WIDTH
+
 process.env.SHOT_HEIGHT
