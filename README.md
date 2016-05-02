@@ -22,3 +22,15 @@ Create a websites.json in the root directory and put all URL's in, for example:
 
 Run `npm start` to create screenshots, you will find them in the `screenshots` folder
 of the project.
+
+## Environment
+
+### browser resolution
+
+process.env.WINDOW_WIDTH
+process.env.WINDOW_HEIGHT
+
+### screenshot size
+
+process.env.SHOT_WIDTH
+process.env.SHOT_HEIGHT
